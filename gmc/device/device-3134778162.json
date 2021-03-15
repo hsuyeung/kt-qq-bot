@@ -1,0 +1,37 @@
+{
+  "display": "GMC.330023.001",
+  "product": "gmc",
+  "device": "gmc",
+  "board": "gmc",
+  "model": "gmc",
+  "finger_print": "pbbot/gmc/gmc:10/PBBOT.200324.001/8027350:user/release-keys",
+  "boot_id": "316bde55-dfe5-8b2a-0f36-4b64b75012b3",
+  "proc_version": "Linux 5.4.0-54-genericx9RFYpQx (android-build@gmail.com)",
+  "protocol": 0,
+  "imei": "710146004364671",
+  "brand": "pbbot",
+  "bootloader": "unknown",
+  "base_band": "",
+  "version": {
+    "incremental": "5891938",
+    "release": "10",
+    "codename": "REL",
+    "sdk": 29
+  },
+  "sim_info": "T-Mobile",
+  "os_type": "android",
+  "mac_address": "00:50:56:C0:00:08",
+  "ip_address": [
+    192,
+    168,
+    1,
+    162
+  ],
+  "wifi_bssid": "00:50:56:C0:00:08",
+  "wifi_ssid": "TP-LINK-CB6164",
+  "imsi_md5": "95e76655e0bc41b0d1c2f2f7cd19d811",
+  "android_id": "GMC.330023.001",
+  "apn": "wifi",
+  "vendor_name": "MIUI",
+  "vendor_os_name": "mirai"
+}
