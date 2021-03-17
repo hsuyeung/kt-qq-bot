@@ -1,1 +1,6 @@
-
+server:
+  port: 8081
+spring:
+  bot:
+    plugin-list:
+      - run.xuyang.ktqqbot.plugin.LogPlugin
