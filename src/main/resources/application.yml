@@ -4,4 +4,4 @@ spring:
   bot:
     plugin-list:
       - run.xuyang.ktqqbot.plugin.LogPlugin
-      - run.xuyang.ktqqbot.plugin.ReReadPlugin
+      - run.xuyang.ktqqbot.plugin.RandomPoemPlugin
