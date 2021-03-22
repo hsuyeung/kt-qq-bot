@@ -19,6 +19,16 @@
   </properties>
   <dependencies>
     <dependency>
+      <groupId>com.fasterxml.jackson.module</groupId>
+      <artifactId>jackson-module-kotlin</artifactId>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient -->
+    <dependency>
+      <groupId>org.apache.httpcomponents</groupId>
+      <artifactId>httpclient</artifactId>
+      <version>4.5.13</version>
+    </dependency>
+    <dependency>
       <groupId>net.lz1998</groupId>
       <artifactId>pbbot-spring-boot-starter</artifactId>
       <version>0.0.24</version>
