@@ -1,4 +1,4 @@
-package run.xuyang.ktqqbot
+package com.xuyang9978.ktqqbot
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
