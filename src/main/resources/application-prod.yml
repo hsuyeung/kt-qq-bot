@@ -1,0 +1,20 @@
+server:
+  port: 8081
+spring:
+  # 机器人配置
+  bot:
+    # 插件列表，有序
+    plugin-list:
+      - com.xuyang9978.ktqqbot.plugin.LogPlugin
+      - com.xuyang9978.ktqqbot.plugin.RandomPoemPlugin
+  # 配置 MySQL 连接信息
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    url: jdbc:mysql://localhost:3306/#####?useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai
+    username: #####
+    password: #####
+  # redis 配置
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    password: #####

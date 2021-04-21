@@ -1,7 +1,3 @@
-server:
-  port: 8081
 spring:
-  bot:
-    plugin-list:
-      - run.xuyang.ktqqbot.plugin.LogPlugin
-      - run.xuyang.ktqqbot.plugin.RandomPoemPlugin
+  profiles:
+    active: dev
