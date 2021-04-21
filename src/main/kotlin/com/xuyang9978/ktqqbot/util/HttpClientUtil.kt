@@ -1,4 +1,4 @@
-package run.xuyang.ktqqbot.util
+package com.xuyang9978.ktqqbot.util
 
 import org.apache.http.NameValuePair
 import org.apache.http.client.entity.UrlEncodedFormEntity
